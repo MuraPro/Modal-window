@@ -82,3 +82,6 @@ img {
     height: 100%;
     object-fit: cover;
 }
+h1 {
+    margin: 20px 0;
+}
