@@ -84,4 +84,6 @@ img {
 }
 h1 {
     margin: 20px 0;
+    color: blue;
+    font-size: 50px;
 }
